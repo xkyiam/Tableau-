@@ -7,3 +7,6 @@ Tableau
 条形图
 
 直方图
+
+
+![image](https://github.com/user-attachments/assets/e0d80fd2-f731-4fa2-beac-e544ef323492)
